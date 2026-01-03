@@ -3,6 +3,7 @@
 A portfolio project that simulates a **Head of Claims / Claims Ops** dashboard for motor insurance: monitoring claim volume & cost trends, triaging incident drivers, and profiling fraud risk signals.
 
 **Tech stack:** Power BI (semantic model + DAX), PostgreSQL (staging + star-schema warehouse)  
+**Live dashboard:** https://app.powerbi.com/view?r=eyJrIjoiMDAzYjAzMTItN2E5YS00OWEyLWE5NjYtMjVhMzRiMTI1YWRjIiwidCI6ImRmNDZiODE3LTJkMWYtNGNiZS04ZDQzLTgxNWU3Y2MwOWUxYyIsImMiOjEwfQ%3D%3D
 **Data source:** Kaggle — Auto Insurance Claims Data (CSV)  
 https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data
 
